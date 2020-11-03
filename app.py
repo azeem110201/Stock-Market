@@ -134,7 +134,7 @@ if __name__ == "__main__":
     
     st.image("stock_market3.jpg",width=700)
     
-    st.info(''' Welcome to our WebApp where you can analysis and take decision regarding stocks with more than 450+ stock tickers ''')
+    st.info(''' Welcome to our WebApp where you can analyse and take decision regarding stocks with more than 450+ stock tickers ''')
     
     st.markdown('**Make sure that start date is less than end date**.')
     
